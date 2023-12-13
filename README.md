@@ -1,1 +1,1 @@
-# ReceiptExtractor
+# Receipt Scanner
